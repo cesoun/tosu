@@ -1,0 +1,24 @@
+{
+  "name": "cesoun-osu",
+  "version": "1.0.0",
+  "description": "Twitch to Osu!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cesoun/tosu.git"
+  },
+  "author": "Christopher \"Cesoun\" Oswald",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesoun/tosu/issues"
+  },
+  "homepage": "https://github.com/cesoun/tosu#readme",
+  "dependencies": {
+    "irc-framework": "^4.0.0",
+    "request": "^2.88.0",
+    "tmi.js": "^1.2.1"
+  }
+}
