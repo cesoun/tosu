@@ -44,3 +44,9 @@
 
 
 [![TOSU Video Guide](http://img.youtube.com/vi/5yroxTEH8a4/0.jpg)](http://www.youtube.com/watch?5yroxTEH8a4 "TOSU Guide")
+
+
+
+##### Still Need Help?
+
+`cesoun#8549` on `Discord`. If I have the time I'll try and lend you a hand.
