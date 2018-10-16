@@ -34,9 +34,9 @@ function getBeatmapInfo(dif, set, irc_client, context)
 
       try
       {
-        // irc_client.say(options.osu_recip, `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
+        irc_client.say(options.osu_recip, `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
         irc_client.say(options.osu_uname, `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
-        irc_client.say('Imag', `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
+        
         console.log(`\t << Request from: ${context.username} processed.`)
       } catch (e)
       {
@@ -58,9 +58,9 @@ function getBeatmapInfo(dif, set, irc_client, context)
 
       try
       {
-        // irc_client.say(options.osu_recip, `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
+        irc_client.say(options.osu_recip, `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
         irc_client.say(options.osu_uname, `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
-        irc_client.say('Imag', `[TOSU] Twitch Request: [${url + body[0].beatmap_id} ${body[0].artist} - ${body[0].title}], from user: ${context.username}!`)
+        
         console.log(`\t << Request from: ${context.username} processed.`)
       } catch (e)
       {
