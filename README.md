@@ -43,7 +43,7 @@
 
 
 
-[![TOSU Video Guide](http://img.youtube.com/vi/5yroxTEH8a4/0.jpg)](http://www.youtube.com/watch?5yroxTEH8a4 "TOSU Guide")
+[![TOSU Video Guide](http://img.youtube.com/vi/5yroxTEH8a4/0.jpg)](https://youtu.be/5yroxTEH8a4 "TOSU Guide")
 
 
 

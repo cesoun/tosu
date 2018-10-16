@@ -24,7 +24,7 @@ const disconnectHandler = require('./handlers/onDisconnect')
 let opts = {
   identity: {
     username: options.username,
-    password: 'oauth:' + options.token
+    password: options.token
   },
   channels: options.twitch_channels
 }
